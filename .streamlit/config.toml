@@ -1,9 +1,5 @@
 [server]
-port = 8502
 headless = true
 
 [browser]
 gatherUsageStats = false
-
-[runner]
-mainModule = "app.py"
